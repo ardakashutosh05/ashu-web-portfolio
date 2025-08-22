@@ -127,4 +127,9 @@ If your project requires a different license, update this section accordingly.
 ### TWS Portfolio
 <img width="1900" height="1029" alt="Screenshot 2025-08-22 115211" src="https://github.com/user-attachments/assets/50341a15-1b20-403c-a5b6-f17da62a7906" />
 
+---
+
+<img width="1569" height="964" alt="Screenshot 2025-08-22 140816" src="https://github.com/user-attachments/assets/78095b39-5a63-42b4-ad5f-7f1723316050" />
+
+
 
