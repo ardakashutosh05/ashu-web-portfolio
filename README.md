@@ -1,4 +1,4 @@
-# 🌟 TWS Portfolio
+# 🌟 Ashutosh Web Portfolio
 
 A simple, fast, and fully static personal portfolio website built with **HTML**, **CSS**, and **JavaScript**.  
 This project **automatically deploys** to an **Amazon S3** bucket using **GitHub Actions** whenever changes are pushed to the `main` branch.
@@ -80,7 +80,7 @@ Add the following Bucket Policy to allow public read access:
 
 Once hosting is enabled, your site will be available at a URL like:  
 
-   http://tws-portfolio-1234.s3-website-us-east-1.amazonaws.com
+   http://tws-portfolio1234.s3-website-us-east-1.amazonaws.com
 
 ---
 
@@ -125,5 +125,6 @@ If your project requires a different license, update this section accordingly.
 ## ✨ Output Screenshot
 
 ### TWS Portfolio
-<img width="1122" height="536" alt="Portfolio Screenshot" src="https://github.com/user-attachments/assets/855448df-db74-4b93-a4ef-fe78d287d583" />
+<img width="1900" height="1029" alt="Screenshot 2025-08-22 115211" src="https://github.com/user-attachments/assets/50341a15-1b20-403c-a5b6-f17da62a7906" />
+
 
